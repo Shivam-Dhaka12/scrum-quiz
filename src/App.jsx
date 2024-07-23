@@ -46,12 +46,13 @@ export default function App() {
 				],
 			},
 			{
-				question: 'What is the purpose of daily scrum meeting?',
-				correct_answer: 'All of above',
+				question: 'The concept of "timeboxing" in Agile refers to:',
+				correct_answer:
+					'Setting a fixed amount of time to complete a task or activity  ',
 				incorrect_answers: [
-					'It setups planning for the entire team for success',
-					'To learn the current progress of every team member',
-					'To show the \ncustomers and stakeholders the work they have accomplished',
+					'Estimating project duration',
+					'Prioritizing tasks in a backlog',
+					'Creating deadlines for the team',
 				],
 			},
 			{
